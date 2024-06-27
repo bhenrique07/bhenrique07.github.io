@@ -126,7 +126,7 @@
         gap: 40px;
     }
     .formacao .subtitulo {
-        color: #fff;
+        color: #fff !important;
     }
     .formacao-texto {
         font-size: 1.25rem;
